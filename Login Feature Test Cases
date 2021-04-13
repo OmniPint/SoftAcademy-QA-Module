@@ -1,17 +1,23 @@
-1. Loading the application
-2. Loading the Login Page by pressing the Login Button
-3. Successful Login with correct Username and correct Password
-4. Unsuccessful Login with incorrect Username and correct Password
-5. Unsuccessful Login with correct Username and incorrect Password
-6. Unsuccessful Login with incorrect Username and incorrect Password
-7. Successful Login with correct Email and correct Password
-8. Unsuccessful Login with incorrect Email and correct Password
-9. Unsuccessful Login with correct Email and incorrect Password
-10. Unsuccessful Login with incorrect Email and incorrect Password
-11. Unsuccessful Login with correct Username and empty Password field
-12. Unsuccessful Login with incorrect Username and empty Password field
-13. Unsuccessful Login with correct Email and empty Password field
-14. Unsuccessful Login with incorrect Email and empty Password field
-15. Unsuccessful Login with empty  Username or Email field and correct Password
-16.  Unsuccessful Login with empty Username or Email field and incorrect Paswword
-17.  Unsuccessful Login with empty Username or Email field and empty Password field
+Loading the application
+Loading the Login Page by pressing the Login Button
+Successful Login with correct Username and correct Password
+Unsuccessful Login with incorrect Username and correct Password
+Unsuccessful Login with correct Username and incorrect Password
+Unsuccessful Login with incorrect Username and incorrect Password
+Successful Login with correct Email and correct Password
+Unsuccessful Login with incorrect Email and correct Password
+Unsuccessful Login with correct Email and incorrect Password
+Unsuccessful Login with incorrect Email and incorrect Password
+Unsuccessful Login with correct Username and empty Password field
+Unsuccessful Login with incorrect Username and empty Password field
+Unsuccessful Login with correct Email and empty Password field
+Unsuccessful Login with incorrect Email and empty Password field
+Unsuccessful Login with empty  Username or Email field and correct Password
+Unsuccessful Login with empty Username or Email field and incorrect Paswword
+Unsuccessful Login with empty Username or Email field and empty Password field
+Checking for "Bad Credentials" notification appearance using correct Username and incorrect Password
+Checking for "Bad Credentials" notification appearance using incorrect Username and correct Password
+Checking for "Bad Credentials" notification appearance using incorrect Email and correct Password
+Checking for "Bad Credentials" notification appearance using correct Email and incorrect Password
+Checking for "Bad Credentials" notification appearance using incorrect Username and incorrect Password
+Checking for "Bad Credentials" notification appearance using incorrect Email and incorrect Password

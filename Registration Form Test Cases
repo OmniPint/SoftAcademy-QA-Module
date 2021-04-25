@@ -2,10 +2,18 @@ Accessing registraion form by using the Signup button
 Accessing registration form by using the “Register Now” link via the Login form
 Checking Registration form contains all mandatory fields (Full Name, Username, Email, Password)
 Checking all credential fields are accepting text input 
-Successful Registration with valid credentials entered in all mandatory fields
 Checking for a validation/error message when creating account with already existing Username
 Checking Email field validation when using wrong Email format
-User input information is not stored during registration in case the application is closed
+Verifying User input information is not stored during registration in case the application is closed
+Successful Registration with valid credentials entered in all mandatory fields
+Successful Registration with minimum required characters – Full Name
+Successful Registration with maximum allowed characters – Full Name
+Checking if using Space button counts as character input in Full Name field
+Successful Registration with minimum required characters – Username
+Successful Registration with maximum allowed characters – Username
+Successful Registration with minimum required characters – Password
+Successful Registration with maximum allowed characters – Password
+Successful Registration with maximum allowed characters – Email
 Unsuccessful registration by leaving all mandatory fields empty/blank
 Unsuccessful registration by leaving one of the mandatory fields empty – Full Name
 Unsuccessful registration by leaving one of the mandatory fields empty – Username
@@ -36,7 +44,10 @@ Unsuccessful registration with invalid Full Name, invalid Username, valid Email 
 Unsuccessful registration with valid Full Name, invalid Username, invalid Email and valid Password
 Unsuccessful registration with valid Full Name, invalid Username, valid Email and invalid Password
 Unsuccessful registration with valid Full Name, valid Username, invalid Email and invalid Password
-Unsuccessful registration with invalid Full Name, valid Username, valid Email and valid Password
-Unsuccessful registration with valid Full Name, invalid Username, valid Email and valid Password
-Unsuccessful registration with valid Full Name, valid Username, invalid Email and valid Password
-Unsuccessful registration with valid Full Name, valid Username, valid Email and invalid Password
+Unsuccessful registration with invalid Full Name – less characters than the minimum required
+Unsuccessful registration with invalid Full Name – more characters than the maximum allowed
+Unsuccessful registration with invalid Username – less characters than the minimum required
+Unsuccessful registration with invalid Username – more characters than the maximum allowed
+Unsuccessful registration with invalid Email – more characters than the maximum allowed
+Unsuccessful registration with invalid Password – less characters than the minimum required
+Unsuccessful registration with invalid Password – more characters than the maximum allowed

@@ -1,0 +1,22 @@
+Accessing registraion form by using the Signup button
+Accessing registration form by using the “Register Now” link via the Login form
+Checking Registration form contains all mandatory fields (Full Name, Username, Email, Password)
+Checking all credential fields are accepting text input 
+Successful Registration with valid credentials entered in all mandatory fields
+Checking for a validation/error message when creating account with already existing Username
+Checking Email field validation when using wrong Email format
+Unsuccessful registration by leaving all mandatory fields empty/blank
+Unsuccessful registration by leaving one of the mandatory fields empty – Full Name
+Unsuccessful registration by leaving one of the mandatory fields empty – Username
+Unsuccessful registration by leaving one of the mandatory fields empty – Email
+Unsuccessful registration by leaving one of the mandatory fields empty – Password
+Unsuccessful registration by filling only one of the mandatory fields – Full Name
+Unsuccessful registration by filling only one of the mandatory fields - Username
+Unsuccessful registration by filling only one of the mandatory fields - Email
+Unsuccessful registration by filling only one of the mandatory fields – Password
+Unsuccessful registration by filling only two of the mandatory fields – Full Name & Password
+Unsuccessful registration by filling only two of the mandatory fields – Full Name & Email
+Unsuccessful registration by filling only two of the mandatory fields – Full Name & Username
+Unsuccessful registration by filling only two of the mandatory fields – Username & Email
+Unsuccessful registration by filling only two of the mandatory fields – Username & Password
+Unsuccessful registration by filling only two of the mandatory fields – Email & Password

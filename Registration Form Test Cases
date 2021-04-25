@@ -25,4 +25,18 @@ Verifying that empty mandatory fields are highlighted in red – empty Full Name
 Verifying that empty mandatory fields are highlighted in red – empty Username field
 Verifying that empty mandatory fields are highlighted in red – empty Email field
 Verifying that empty mandatory fields are highlighted in red – empty Password field
-Unsuccessful registration with invalid Full Name, invalid Username, invalid Email and invalid
+Unsuccessful registration with invalid Full Name, invalid Username, invalid Email and invalid Password
+Unsuccessful registration with invalid Full Name, invalid Username, invalid Email and valid Password
+Unsuccessful registration with invalid Full Name, invalid Username, valid Email and invalid Password
+Unsuccessful registration with invalid Full Name, valid Username, invalid Email and invalid Password
+Unsuccessful registration with valid Full Name, invalid Username, invalid Email and invalid Password
+Unsuccessful registration with invalid Full Name, valid Username, invalid Email and valid Password
+Unsuccessful registration with invalid Full Name, valid Username, valid Email and invalid Password
+Unsuccessful registration with invalid Full Name, invalid Username, valid Email and valid Password
+Unsuccessful registration with valid Full Name, invalid Username, invalid Email and valid Password
+Unsuccessful registration with valid Full Name, invalid Username, valid Email and invalid Password
+Unsuccessful registration with valid Full Name, valid Username, invalid Email and invalid Password
+Unsuccessful registration with invalid Full Name, valid Username, valid Email and valid Password
+Unsuccessful registration with valid Full Name, invalid Username, valid Email and valid Password
+Unsuccessful registration with valid Full Name, valid Username, invalid Email and valid Password
+Unsuccessful registration with valid Full Name, valid Username, valid Email and invalid Password

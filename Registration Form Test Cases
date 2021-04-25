@@ -5,6 +5,7 @@ Checking all credential fields are accepting text input
 Successful Registration with valid credentials entered in all mandatory fields
 Checking for a validation/error message when creating account with already existing Username
 Checking Email field validation when using wrong Email format
+User input information is not stored during registration in case the application is closed
 Unsuccessful registration by leaving all mandatory fields empty/blank
 Unsuccessful registration by leaving one of the mandatory fields empty – Full Name
 Unsuccessful registration by leaving one of the mandatory fields empty – Username
@@ -20,3 +21,8 @@ Unsuccessful registration by filling only two of the mandatory fields – Full N
 Unsuccessful registration by filling only two of the mandatory fields – Username & Email
 Unsuccessful registration by filling only two of the mandatory fields – Username & Password
 Unsuccessful registration by filling only two of the mandatory fields – Email & Password
+Verifying that empty mandatory fields are highlighted in red – empty Full Name field
+Verifying that empty mandatory fields are highlighted in red – empty Username field
+Verifying that empty mandatory fields are highlighted in red – empty Email field
+Verifying that empty mandatory fields are highlighted in red – empty Password field
+Unsuccessful registration with invalid Full Name, invalid Username, invalid Email and invalid
